@@ -24,3 +24,11 @@ Desenvolver uma aplicação web capaz de classificar imagens de escorpiões por 
 Em desenvolvimento. Contribuições são bem-vindas!
 
 ---
+
+## 📦 Instalação de Dependências
+
+Antes de executar o projeto, é necessário instalar algumas bibliotecas essenciais para processamento de dados e uso de inteligência artificial:
+
+- pip3 install numpy 
+- pip3 install tensorflow
+- pip3 install scipy
